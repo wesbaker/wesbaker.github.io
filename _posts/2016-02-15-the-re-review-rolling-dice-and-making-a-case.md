@@ -7,7 +7,7 @@ categories:
 ---
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-<img src="/images/covers/arcadia-quest.jpg" alt="Arcadia Quest" class="image-right" />
+![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 2 plays with 4 players
 - Played before
@@ -19,7 +19,7 @@ Recommended for the right crowd.
 
 ## [Android](https://boardgamegeek.com/boardgame/39339/android)
 
-<img src="/images/covers/android.jpg" alt="Android" class="image-right" />
+![Android](/images/covers/android.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before

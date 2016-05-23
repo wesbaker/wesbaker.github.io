@@ -7,7 +7,7 @@ categories:
 ---
 ## [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
-<img src="/images/covers/food-chain-magnate.jpg" alt="Food Chain Magnate" class="image-right" />
+![Food Chain Magnate](/images/covers/food-chain-magnate.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -20,7 +20,7 @@ Tentatively recommended, and even if I had a few games under my belt, this isn't
 
 ## [Spookies](https://boardgamegeek.com/boardgame/183264/spookies)
 
-<img src="/images/covers/spookies.jpg" alt="Spookies" class="image-right" />
+![Spookies](/images/covers/spookies.jpg){: class="image-right"}
 
 - 3 plays with 2 players
 - New to me
@@ -35,7 +35,7 @@ Recommended.
 
 ## [Merchants & Marauders](https://boardgamegeek.com/boardgame/25292/merchants-marauders)
 
-<img src="/images/covers/merchants-marauders.jpg" alt="Merchants & Marauders" class="image-right" />
+![Merchants & Marauders](/images/covers/merchants-marauders.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before

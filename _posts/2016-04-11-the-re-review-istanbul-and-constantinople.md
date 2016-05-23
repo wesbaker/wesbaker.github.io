@@ -7,7 +7,7 @@ categories:
 ---
 ## [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
 
-<img src="/images/covers/istanbul.jpg" alt="Istanbul" class="image-right" />
+![Istanbul](/images/covers/istanbul.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -22,7 +22,7 @@ Tentatively recommended.
 
 ## [Through the Ages](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-<img src="/images/covers/through-the-ages.jpg" alt="Through the Ages" class="image-right" />
+![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -35,7 +35,7 @@ Highly recommended. One of the best games.
 
 ## [Kemet](https://boardgamegeek.com/boardgame/127023/kemet)
 
-<img src="/images/covers/kemet.jpg" alt="Kemet" class="image-right" />
+![Kemet](/images/covers/kemet.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before

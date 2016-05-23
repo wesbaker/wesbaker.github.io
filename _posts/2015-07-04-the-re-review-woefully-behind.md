@@ -7,7 +7,7 @@ categories:
 ---
 ## [The Duke](https://boardgamegeek.com/boardgame/36235/duke)
 
-<img src="/images/covers/the-duke.jpg" alt="The Duke" class="image-right" />
+![The Duke](/images/covers/the-duke.jpg){: class="image-right"}
 
 - 1 play with 2 players this week
 - Played before
@@ -18,7 +18,7 @@ Highly recommended if you can get it to the table.
 
 ## [TransAmerica](https://boardgamegeek.com/boardgame/2842/transamerica)
 
-<img src="/images/covers/transamerica.jpg" alt="Transamerica" class="image-right" />
+![Transamerica](/images/covers/transamerica.jpg){: class="image-right"}
 
 - 1 play with 6 players this week
 - New to me
@@ -31,7 +31,7 @@ I'm pretty sure this is out of print and while I did enjoy it, I  definitely wou
 
 ## [Elysium](https://boardgamegeek.com/boardgame/163968/elysium)
 
-<img src="/images/covers/elysium.jpg" alt="Elysium" class="image-right" />
+![Elysium](/images/covers/elysium.jpg){: class="image-right"}
 
 - 1 play with 3 players this week
 - New to me
@@ -44,7 +44,7 @@ I can see how that description probably wouldn't sell most people. It didn't rea
 
 ## [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 
-<img src="/images/covers/five-tribes.jpg" alt="Five Tribes" class="image-right" />
+![Five Tribes](/images/covers/five-tribes.jpg){: class="image-right"}
 
 - 1 play with 3 players this week
 - Played before
@@ -54,7 +54,7 @@ My love for this game continues, though I don't remember a ton about this play o
 
 ## [Through the Desert](https://boardgamegeek.com/boardgame/503/through-desert)
 
-<img src="/images/covers/through-the-desert.jpg" alt="Through the Desert" class="image-right" />
+![Through the Desert](/images/covers/through-the-desert.jpg){: class="image-right"}
 
 - 1 play with 3 players this week
 - New to me
@@ -65,7 +65,7 @@ I'd play this again, but I'd prefer playing most other games.
 
 ## [Specter Ops](https://boardgamegeek.com/boardgame/155624/specter-ops)
 
-<img src="/images/covers/specter-ops.jpg" alt="Specter Ops" class="image-right" />
+![Specter Ops](/images/covers/specter-ops.jpg){: class="image-right"}
 
 - 1 play with 2 players this week
 - New to me
@@ -74,7 +74,7 @@ My only play of **Specter Ops** was probably not at an optimal player count: 2. 
 
 ## [Sushi Go](https://boardgamegeek.com/boardgame/133473/sushi-go)
 
-<img src="/images/covers/sushi-go.jpg" alt="Specter Ops" class="image-right" />
+![Specter Ops](/images/covers/sushi-go.jpg){: class="image-right"}
 
 - 3 plays with 5 players this week
 - Played before

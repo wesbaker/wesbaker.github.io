@@ -7,7 +7,7 @@ categories:
 ---
 ## [Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
 
-<img src="/images/covers/mage-knight.jpg" alt="Mage Knight" class="image-right" />
+![Mage Knight](/images/covers/mage-knight.jpg){: class="image-right"}
 
 - 1 play with 2 players this week
 - Played before
@@ -21,7 +21,7 @@ It's that ability to do what you want without the game getting in the way that m
 
 ## [Caverna](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers)
 
-<img src="/images/covers/caverna.jpg" alt="Caverna" class="image-right" />
+![Caverna](/images/covers/caverna.jpg){: class="image-right"}
 
 - 1 play with 2 players this week
 - Played before
@@ -33,7 +33,7 @@ That being said, we haven't even flipped the boards over to the more complicated
 
 ## [Glory to Rome](https://boardgamegeek.com/boardgame/19857/glory-rome)
 
-<img src="/images/covers/glory-to-rome.png" alt="Glory to Rome" class="image-right" />
+![Glory to Rome](/images/covers/glory-to-rome.png){: class="image-right"}
 
 - 2 plays with 2 players this week
 - Played before

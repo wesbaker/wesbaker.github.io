@@ -7,7 +7,7 @@ categories:
 ---
 ## [Flick 'em Up!](https://boardgamegeek.com/boardgame/169124/flick-em)
 
-<img src="/images/covers/flick-em-up.png" alt="Flick ‘em Up!" class="image-right" />
+![Flick ‘em Up!](/images/covers/flick-em-up.png){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -23,7 +23,7 @@ Now, I've only played once and it was only the first scenario, but I really enjo
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-<img src="/images/covers/codenames.jpg" alt="Codenames" class="image-right" />
+![Codenames](/images/covers/codenames.jpg){: class="image-right"}
 
 - 2 plays with 9 players and 8 plays with 4 players
 - Played before
@@ -34,7 +34,7 @@ There's something really smart about **Codenames** and how elegantly it's design
 
 ## [Medieval Academy](https://boardgamegeek.com/boardgame/154386/medieval-academy)
 
-<img src="/images/covers/medieval-academy.jpg" alt="Medieval Academy" class="image-right" />
+![Medieval Academy](/images/covers/medieval-academy.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -45,7 +45,7 @@ That's what it's like to play **Medieval Academy**: your choices largely don't m
 
 ## [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
 
-<img src="/images/covers/monikers.png" alt="Monikers" class="image-right" />
+![Monikers](/images/covers/monikers.png){: class="image-right"}
 
 - 2 plays with 4 players
 - Played before
@@ -56,7 +56,7 @@ Oh, and it's back and print, so go buy it.
 
 ## [Eclipse](https://boardgamegeek.com/boardgame/72125/eclipse)
 
-<img src="/images/covers/eclipse.jpg" alt="Eclipse" class="image-right" />
+![Eclipse](/images/covers/eclipse.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -67,7 +67,7 @@ Oh well, I'll just have to play again.
 
 ## [Chaos in the Old World](https://boardgamegeek.com/boardgame/43111/chaos-old-world)
 
-<img src="/images/covers/chaos-in-the-old-world.jpg" alt="Chaos in the Old World" class="image-right" />
+![Chaos in the Old World](/images/covers/chaos-in-the-old-world.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -79,7 +79,7 @@ This game really does get better over time and I've only ever enjoyed my plays o
 
 ## [Between Two Cities](https://boardgamegeek.com/boardgame/168435/between-two-cities)
 
-<img src="/images/covers/between-two-cities.jpg" alt="Between Two Cities" class="image-right" />
+![Between Two Cities](/images/covers/between-two-cities.jpg){: class="image-right"}
 
 - 1 play with 7 players
 - New to me
@@ -94,7 +94,7 @@ This is one of those games that you could teach to any gamer and most non-gamers
 
 ## [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy)
 
-<img src="/images/covers/roll-for-the-galaxy.jpg" alt=" Roll for the Galaxy" class="image-right" />
+![ Roll for the Galaxy](/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -103,7 +103,7 @@ My rules explanation was a bit shakier than normal, but I still had a good time 
 
 ## [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
 
-<img src="/images/covers/hanabi.jpg" alt="Hanabi" class="image-right" />
+![Hanabi](/images/covers/hanabi.jpg){: class="image-right"}
 
 - 2 plays with 4 players
 - Played before

@@ -52,7 +52,7 @@ I’m hoping to keep this one around now and start to shuffle in the expansions 
 
 ## [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)
 
-<img src="/images/covers/battle-line.jpg" alt="Battle Line" class="image-right" />
+![Battle Line](/images/covers/battle-line.jpg){: class="image-right"}
 
 - 3 plays with 2 players
 - Played before
@@ -67,7 +67,7 @@ One piece of advice with this game: don't take too many tactics cards. Since you
 
 ## [Beasty Bar](https://boardgamegeek.com/boardgame/165950/beasty-bar)
 
-<img src="/images/covers/beasty-bar.jpg" alt="Beasty Bar" class="image-right" />
+![Beasty Bar](/images/covers/beasty-bar.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before

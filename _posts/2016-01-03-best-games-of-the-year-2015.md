@@ -27,13 +27,13 @@ And now the rest in alphabetical order:
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
-<img src="/images/covers/7-wonders-duel.jpg" alt="7 Wonders: Duel" class="image-right" />
+![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 Take what's fun about **7 Wonders** and make the two player game not suck. They pretty much hit the nail on the head here. I love the fact that there are three different ways to win and you have to pay attention to all three in order to be successful. I enjoy the variety that comes from the changing wonders and progress tokens. Oh, and back to my obsession with game length: it's over in 30 minutes. Awesome game.
 
 ## [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
 
-<img src="/images/covers/alchemists.png" alt="Alchemists" class="image-right" />
+![Alchemists](/images/covers/alchemists.png){: class="image-right"}
 
 I'm not intimidated by many games, but for some reason **Alchemists** languished on my shelf because I was nervous about learning the rules for some reason. I was really interested in the game because of its app integration and its theme, and after a little prodding from some friends, I sat down to learn the not-as-bad-as-I-thought rules. Excited by the game,  I asked my wife to play that night and we both really enjoyed it.
 
@@ -41,7 +41,7 @@ I'm not intimidated by many games, but for some reason **Alchemists** languished
 
 ## [Castles of Mad King Ludwig](https://boardgamegeek.com/boardgame/155426/castles-mad-king-ludwig)
 
-<img src="/images/covers/castles-of-mad-king-ludwig.jpg" alt="Castles of Mad King Ludwig" class="image-right" />
+![Castles of Mad King Ludwig](/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
 
 I was late to the party on this one. I looked at it and dismissed it as an also-ran of **Suburbia** and I thought I enjoyed the theme of that versus **Castles**. Yet, like a sucker, I decided I'd try it out and ended up trading for it.
 
@@ -49,13 +49,13 @@ Well, I was wrong, very wrong. This game strips away a lot of the game state man
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-<img src="/images/covers/codenames.jpg" alt="Codenames" class="image-right" />
+![Codenames](/images/covers/codenames.jpg){: class="image-right"}
 
 There's no surprise that **Codenames** is on this list. It's my second most played game this year only behind **Android: Netrunner** and that's because it works just so well and you're almost always going to play two games of it per sitting. I love the feeling of having to give clues tying words with no shared meaning together and trying to guess what the clue giver was trying to tell you. It's a tough game at times, and occasionally the random shuffle puts you in a tough spot, but it makes those wins just that much better.
 
 ## [Forbidden Stars](https://boardgamegeek.com/boardgame/175155/forbidden-stars)
 
-<img src="/images/covers/forbidden-stars.jpg" alt="Forbidden Stars" class="image-right" />
+![Forbidden Stars](/images/covers/forbidden-stars.jpg){: class="image-right"}
 
 My first game of **Forbidden Stars** was pretty rough and I ended up quitting the game because I was so far out of competition and having a miserable time. I almost decided to sell it on the spot, but we ended up playing it again two days later and I realized just how much I was doing wrong. I was turtling in a game where turtling is highly discouraged and I lost as a result of that.
 
@@ -63,13 +63,13 @@ My first game of **Forbidden Stars** was pretty rough and I ended up quitting th
 
 ## [The Grizzled](https://boardgamegeek.com/boardgame/171668/grizzled)
 
-<img src="/images/covers/the-grizzled.jpg" alt="The Grizzled" class="image-right" />
+![The Grizzled](/images/covers/the-grizzled.jpg){: class="image-right"}
 
 I'm really surprised to see **The Grizzled** on this list to be honest. The game is pretty simple, but it just works. It's a great cooperative game where the alpha player problem has been handled and the artwork is superb. I've played this game 7 times now and I've only won once and that was tenuous at best. It's a hard game and you'll struggle through it at times, but I love how some very basic components end up telling a pretty deep story.
 
 ## [Orléans](https://boardgamegeek.com/boardgame/164928/orleans)
 
-<img src="/images/covers/orleans.png" alt="Orleans" class="image-right" />
+![Orleans](/images/covers/orleans.png){: class="image-right"}
 
 I had owned and played **Hyperborea** before and while I liked the bag-building mechanic in that game, the rest of the game fell flat for me. When I saw **Orléans** on Kickstarter around the same time, I decided to spring for the deluxe version since I liked the look of the game.
 
@@ -77,13 +77,13 @@ In **Orléans** you're building a bag full of tokens that you draw at the beginn
 
 ## [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy)
 
-<img src="/images/covers/roll-for-the-galaxy.jpg" alt="Roll for the Galaxy" class="image-right" />
+![Roll for the Galaxy](/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
 
 I almost didn't include this on the list since my first play of this game was in prototype form at GenCon 2014, but realistically I played my first game of the published version in January 2015, so I'm including it in this list. **Roll for the Galaxy** takes what I loved about **Race for the Galaxy** and turns it into a slightly longer game with the same interesting decisions. It adds dice to the mix (of course) and it simplifies and clarifies the various symbols used from **Race for the Galaxy**. This game is a series of interesting decisions and balancing the number of dice rolled with the amount of money earned.
 
 ## [Warhammer Quest: The Adventure Card Game](https://boardgamegeek.com/boardgame/181521/warhammer-quest-adventure-card-game)
 
-<img src="/images/covers/warhammer-quest-the-adventure-card-game.jpg" alt="Warhammer Quest: The Adventure Card Game" class="image-right" />
+![Warhammer Quest: The Adventure Card Game](/images/covers/warhammer-quest-the-adventure-card-game.jpg){: class="image-right"}
 
 I was a huge fan of **Lord of the Rings: The Card Game** and I've played it over 100 times, but it was starting to take up more and more time and space. I ended up selling it because I just never looked forward to building another deck or shuffling my deck for a mulligan. When **Warhammer Quest: Adventure Card Game** was announced I was pretty uninterested with it, but when it came out I started to connect the dots and saw that it was a combination of **Lord of the Rings: The Card Game** and **Space Hulk: Death Angel**, two excellent, solitaire-friendly games. I ordered it and decided to give it a shot.
 

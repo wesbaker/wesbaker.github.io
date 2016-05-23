@@ -19,7 +19,7 @@ Also, you should expect negative reviews and comments. I don’t love every game
 
 ## One Night Ultimate Werewolf
 
-<img src="/images/covers/one-night-ultimate-werewolf.jpg" alt="One Night Ultimate Werewolf" class="image-right" />
+![One Night Ultimate Werewolf](/images/covers/one-night-ultimate-werewolf.jpg){: class="image-right"}
 
 - 3 plays with 6 players
 - Played before
@@ -34,7 +34,7 @@ Yet, this is a game that keeps coming out and is fantastic without the expansion
 
 ## Concordia
 
-<img src="/images/covers/concordia.jpg" alt="Concordia" class="image-right" />
+![Concordia](/images/covers/concordia.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Not played before
@@ -51,7 +51,7 @@ My only concern with this game is play time and I’ve only played the game at i
 
 ## Cosmic Encounter
 
-<img src="/images/covers/cosmic-encounter.jpg" alt="Cosmic Encounter" class="image-right" />
+![Cosmic Encounter](/images/covers/cosmic-encounter.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Played before
@@ -66,7 +66,7 @@ This game gets better and better every time I play it and I love the different d
 
 ## XCOM: The Board Game
 
-<img src="/images/covers/xcom.jpg" alt="XCOM: The Board Game" class="image-right" />
+![XCOM: The Board Game](/images/covers/xcom.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -85,7 +85,7 @@ Ultimately, XCOM is a game of luck and luck mitigation (mostly thanks to the Sci
 
 ## Stone Age
 
-<img src="/images/covers/stone-age.jpg" alt="Stone Age" class="image-right" />
+![Stone Age](/images/covers/stone-age.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -102,7 +102,7 @@ That being said, it’s still a great game and one I’m looking to buy when Z-M
 
 ## Battle Line
 
-<img src="/images/covers/battle-line.jpg" alt="Battle Line" class="image-right" />
+![Battle Line](/images/covers/battle-line.jpg){: class="image-right"}
 
 - 3 plays with 2 players
 - Played before (on iOS)
@@ -119,7 +119,7 @@ Definitely worth the purchase.
 
 ## XenoShyft Onslaught
 
-<img src="/images/covers/xenoshyft.jpg" alt="XenoShyft Onslaught" class="image-right" />
+![XenoShyft Onslaught](/images/covers/xenoshyft.jpg){: class="image-right"}
 
 - 2 plays, one solo and one with 2 players
 - Not played before

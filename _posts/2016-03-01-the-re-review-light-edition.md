@@ -7,7 +7,7 @@ categories:
 ---
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-<img src="/images/covers/arcadia-quest.jpg" alt="Arcadia Quest" class="image-right" />
+![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -19,7 +19,7 @@ Highly recommended, especially if you can swing campaign play.
 
 ## [Between Two Cities](https://boardgamegeek.com/boardgame/168435/between-two-cities)
 
-<img src="/images/covers/between-two-cities.jpg" alt="Between Two Cities" class="image-right" />
+![Between Two Cities](/images/covers/between-two-cities.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before

@@ -7,7 +7,7 @@ categories:
 ---
 ## [Raptor](https://boardgamegeek.com/boardgame/177639/raptor "Raptor")
 
-<img src="/images/covers/raptor.jpg" alt="Raptor" class="image-right" />
+![Raptor](/images/covers/raptor.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -18,7 +18,7 @@ Highly recommended.
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel "7 Wonders: Duel")
 
-<img src="/images/covers/7-wonders-duel.jpg" alt="7 Wonders: Duel" class="image-right" />
+![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -30,7 +30,7 @@ Highly recommended.
 
 ## [Viticulture](https://boardgamegeek.com/boardgame/128621/viticulture "Viticulture")
 
-<img src="/images/covers/viticulture.jpg" alt="Viticulture" class="image-right" />
+![Viticulture](/images/covers/viticulture.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -43,7 +43,7 @@ Recommended (still).
 
 ## [El Grande Big Box](https://boardgamegeek.com/boardgame/171908/el-grande-big-box "El Grande Big Box")
 
-<img src="/images/covers/el-grande.jpg" alt="El Grande" class="image-right" />
+![El Grande](/images/covers/el-grande.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -65,7 +65,7 @@ Recommended.
 
 ## [Risk: Star Wars Edition](https://boardgamegeek.com/boardgame/183880/risk-star-wars-edition "Risk: Star Wars Edition")
 
-<img src="/images/covers/risk-star-wars-edition.jpg" alt="Risk: Star Wars Edition" class="image-right" />
+![Risk: Star Wars Edition](/images/covers/risk-star-wars-edition.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before

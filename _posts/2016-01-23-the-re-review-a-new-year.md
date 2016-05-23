@@ -7,7 +7,7 @@ categories:
 ---
 ## [Baseball Highlights 2045](https://boardgamegeek.com/boardgame/186567/baseball-highlights-2045-super-deluxe-edition)
 
-<img src="/images/covers/baseball-highlights-2045.jpg" alt="Baseball Highlights 2045" class="image-right" />
+![Baseball Highlights 2045](/images/covers/baseball-highlights-2045.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - New to me
@@ -20,7 +20,7 @@ Not recommended.
 
 ## [Pairs](https://boardgamegeek.com/boardgame/152237/pairs)
 
-<img src="/images/covers/pairs.jpg" alt="Pairs" class="image-right" />
+![Pairs](/images/covers/pairs.jpg){: class="image-right"}
 
 - 4 plays with 6 players
 - Played before
@@ -33,7 +33,7 @@ Recommended.
 
 ## [Spot It!](https://boardgamegeek.com/boardgame/63268/spot-it)
 
-<img src="/images/covers/spot-it.jpg" alt="Spot It!" class="image-right" />
+![Spot It!](/images/covers/spot-it.jpg){: class="image-right"}
 
 - 5 plays with 6 players
 - Played before
@@ -44,7 +44,7 @@ Recommended.
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
-<img src="/images/covers/7-wonders-duel.jpg" alt="7 Wonders: Duel" class="image-right" />
+![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 - 3 plays with 2 players
 - Played before
@@ -56,7 +56,7 @@ Highly recommended.
 
 ## [Claustrophobia](https://boardgamegeek.com/boardgame/36932/claustrophobia)
 
-<img src="/images/covers/claustrophobia.jpg" alt="Claustrophobia" class="image-right" />
+![Claustrophobia](/images/covers/claustrophobia.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -69,7 +69,7 @@ Not recommended at the moment.
 
 ## [Forbidden Desert](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
 
-<img src="/images/covers/forbidden-desert.jpg" alt="Forbidden Desert" class="image-right" />
+![Forbidden Desert](/images/covers/forbidden-desert.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -80,7 +80,7 @@ Recommended.
 
 ## [Mission: Red Planet](https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition)
 
-<img src="/images/covers/mission-red-planet.jpg" alt="Mission: Red Planet" class="image-right" />
+![Mission: Red Planet](/images/covers/mission-red-planet.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before (sorta)
@@ -91,7 +91,7 @@ Highly recommended (at the higher player counts).
 
 ## [Orléans](https://boardgamegeek.com/boardgame/164928/orleans)
 
-<img src="/images/covers/orleans.png" alt="Orleans" class="image-right" />
+![Orleans](/images/covers/orleans.png){: class="image-right"}
 
 - 1 play with 2 players
 - Played before

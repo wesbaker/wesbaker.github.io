@@ -7,7 +7,7 @@ categories:
 ---
 ## [Lords of Waterdeep](https://boardgamegeek.com/boardgame/110327/lords-waterdeep)
 
-<img src="/images/covers/lords-of-waterdeep.jpg" alt="Lords of Waterdeep" class="image-right" />
+![Lords of Waterdeep](/images/covers/lords-of-waterdeep.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -22,7 +22,7 @@ Recommended.
 
 ## [Between Two Cities](https://boardgamegeek.com/boardgame/168435/between-two-cities)
 
-<img src="/images/covers/between-two-cities.jpg" alt="Between Two Cities" class="image-right" />
+![Between Two Cities](/images/covers/between-two-cities.jpg){: class="image-right"}
 
 - 1 play with 6 players, and 1 play with 4 players
 - Played before
@@ -33,7 +33,7 @@ Recommended.
 
 ## [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy)
 
-<img src="/images/covers/roll-for-the-galaxy.jpg" alt="Roll for the Galaxy" class="image-right" />
+![Roll for the Galaxy](/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -46,7 +46,7 @@ Highly recommended.
 
 ## [Pandemic: The Cure](https://boardgamegeek.com/boardgame/150658/pandemic-cure)
 
-<img src="/images/covers/pandemic-the-cure.jpg" alt="Pandemic: The Cure" class="image-right" />
+![Pandemic: The Cure](/images/covers/pandemic-the-cure.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -57,7 +57,7 @@ Recommended for fans of dice and cooperative games.
 
 ## [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
- <img src="/images/covers/blood-rage.jpg" alt="Blood Rage" class="image-right" />
+ ![Blood Rage](/images/covers/blood-rage.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -74,7 +74,7 @@ Highly recommended if you enjoy confrontational games.
 
 ## [A Game of Thrones: The Card Game (Second Edition)](https://boardgamegeek.com/boardgame/169255/game-thrones-card-game-second-edition)
 
-<img src="/images/covers/a-game-of-thrones-the-card-game-second-edition.png" alt="A Game of Thrones: The Card Game (Second Edition)" class="image-right" />
+![A Game of Thrones: The Card Game (Second Edition)](/images/covers/a-game-of-thrones-the-card-game-second-edition.png){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -87,7 +87,7 @@ Recommended to fans of LCGs looking to get in on the ground floor.
 
 ## [Kingdom Builder](https://boardgamegeek.com/boardgame/107529/kingdom-builder)
 
- <img src="/images/covers/kingdom-builder.jpg" alt="Kingdom Builder" class="image-right" />
+ ![Kingdom Builder](/images/covers/kingdom-builder.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -100,7 +100,7 @@ Not recommended.
 
 ## [Discoveries](https://boardgamegeek.com/boardgame/171669/discoveries)
 
-<img src="/images/covers/discoveries.jpg" alt="Discoveries" class="image-right" />
+![Discoveries](/images/covers/discoveries.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -115,7 +115,7 @@ Not recommended.
 
 ## [Burgle Bros](https://boardgamegeek.com/boardgame/172081/burgle-bros)
 
-<img src="/images/covers/burgle-bros.png" alt="Burgle Bros" class="image-right" />
+![Burgle Bros](/images/covers/burgle-bros.png){: class="image-right"}
 
 - 2 plays with 2 players
 - New to me
@@ -134,7 +134,7 @@ Recommended.
 
 ## [Orléans](https://boardgamegeek.com/boardgame/164928/orleans)
 
-<img src="/images/covers/orleans.png" alt="Orleans" class="image-right" />
+![Orleans](/images/covers/orleans.png){: class="image-right"}
 
 - 1 play with 2 players
 - New to me
@@ -158,7 +158,7 @@ Highly recommended.
 
 ## [Cthulhu Wars](https://boardgamegeek.com/boardgame/139976/cthulhu-wars)
 
-<img src="/images/covers/cthulhu-wars.jpg" alt="Cthulhu Wars" class="image-right" />
+![Cthulhu Wars](/images/covers/cthulhu-wars.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - New to me
@@ -175,7 +175,7 @@ Tentatively recommended. Needs more plays.
 
 ## [Hyperborea](https://boardgamegeek.com/boardgame/119788/hyperborea)
 
-<img src="/images/covers/hyperborea.jpg" alt="Hyperborea" class="image-right" />
+![Hyperborea](/images/covers/hyperborea.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -188,7 +188,7 @@ Not recommended.
 
 ## [No Thanks!](https://boardgamegeek.com/boardgame/12942/no-thanks)
 
-<img src="/images/covers/no-thanks.jpg" alt="No Thanks!" class="image-right" />
+![No Thanks!](/images/covers/no-thanks.jpg){: class="image-right"}
 
 - 1 play with 5 players, 1 play with 4 players
 - New to me

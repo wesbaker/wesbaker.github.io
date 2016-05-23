@@ -7,7 +7,7 @@ categories:
 ---
 ## [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-<img src="/images/covers/through-the-ages.jpg" alt="Through the Ages" class="image-right" />
+![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -18,7 +18,7 @@ Highly recommended.
 
 ## [Cash 'n Guns](https://boardgamegeek.com/boardgame/155362/cah-n-guns-second-edition)
 
-<img src="/images/covers/cash-n-guns.jpg" alt="Cash ’n Guns" class="image-right" />
+![Cash ’n Guns](/images/covers/cash-n-guns.jpg){: class="image-right"}
 
 - 1 play with 8 players
 - Played before
@@ -29,7 +29,7 @@ Recommended.
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-<img src="/images/covers/codenames.jpg" alt="Codenames" class="image-right" />
+![Codenames](/images/covers/codenames.jpg){: class="image-right"}
 
 - 2 plays with 10 players
 - Played before
@@ -42,7 +42,7 @@ Highly recommended.
 
 ## [Dale of Merchants](https://boardgamegeek.com/boardgame/176165/dale-merchants)
 
- <img src="/images/covers/dale-of-merchants.jpg" alt="Dale of Merchants" class="image-right" />
+ ![Dale of Merchants](/images/covers/dale-of-merchants.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - New to me
@@ -53,7 +53,7 @@ Tentatively recommended.
 
 ## [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)
 
-<img src="/images/covers/battle-line.jpg" alt="Battle Line" class="image-right" />
+![Battle Line](/images/covers/battle-line.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
