@@ -5,8 +5,6 @@ date:       2016-05-23 17:48:18 -0400
 categories:
     - board-games
 ---
-# The Re-Review: Stalled
-
 ## [Through the Ages](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
 ![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
