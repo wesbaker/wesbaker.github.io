@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Re-Review: Summer Doldrums"
-date:   2016-06-28 21:05:00 -0400
+date:   2016-06-28 00:00:00 -0400
 ---
 ## [Sons of Anarchy: Men of Mayhem](https://boardgamegeek.com/boardgame/156091/sons-anarchy-men-mayhem)
 
