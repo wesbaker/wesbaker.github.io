@@ -5,7 +5,7 @@ date:   2016-08-30 21:57:52 -0400
 ---
 ## [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)
 
-![Scythe](/images/covers/scythe.jpg){: class="image-right"}
+![Scythe](/assets/images/covers/scythe.jpg){: class="image-right"}
 
 - 1 play with 5 people
 - Played before
@@ -16,7 +16,7 @@ Recommended.
 
 ## [Chaos in the Old World](https://boardgamegeek.com/boardgame/43111/chaos-old-world)
 
-![Chaos in the Old World](/images/covers/chaos-in-the-old-world.jpg){: class="image-right"}
+![Chaos in the Old World](/assets/images/covers/chaos-in-the-old-world.jpg){: class="image-right"}
 
 - 1 play with 5 people
 - Played before
@@ -31,7 +31,7 @@ Highly recommended.
 
 ## [Guild Ball](https://boardgamegeek.com/boardgame/155451/guild-ball)
 
-![Guild Ball](/images/covers/guild-ball.jpg){: class="image-right"}
+![Guild Ball](/assets/images/covers/guild-ball.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - New to me
@@ -42,7 +42,7 @@ Recommended, but it’s a miniatures game, know what you’re getting yourself i
 
 ## [Castles of Mad King Ludwig](https://boardgamegeek.com/boardgame/155426/castles-mad-king-ludwig)
 
-![Castles of Mad King Ludwig](/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
+![Castles of Mad King Ludwig](/assets/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - Played before
@@ -56,7 +56,7 @@ Recommended, but skip the expansion, it's garbage.
 
 ## [Pandemic Legacy](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
 
-![Pandemic Legacy](/images/covers/pandemic-legacy.jpg){: class="image-right"}
+![Pandemic Legacy](/assets/images/covers/pandemic-legacy.jpg){: class="image-right"}
 
 - 2 plays with 4 people
 - Played before
@@ -68,7 +68,7 @@ Recommended for a consistent group.
 
 ## [Viticulture](https://boardgamegeek.com/boardgame/128621/viticulture)
 
-![Viticulture](/images/covers/viticulture.jpg){: class="image-right"}
+![Viticulture](/assets/images/covers/viticulture.jpg){: class="image-right"}
 
 - 1 play with 6 people
 - Played before
@@ -83,7 +83,7 @@ Recommended, but beware of the cards.
 
 ## [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter)
 
-![Cosmic Encounter](/images/covers/cosmic-encounter.jpg){: class="image-right"}
+![Cosmic Encounter](/assets/images/covers/cosmic-encounter.jpg){: class="image-right"}
 
 - 1 play with 6 people
 - Played before
@@ -97,7 +97,7 @@ Highly recommended. **My favorite game.**
 
 ## [Captain Sonar](https://boardgamegeek.com/boardgame/171131/captain-sonar)
 
-![Captain Sonar](/images/covers/captain-sonar.jpg){: class="image-right"}
+![Captain Sonar](/assets/images/covers/captain-sonar.jpg){: class="image-right"}
 
 - 3 play with 6 people
 - New to me
@@ -115,7 +115,7 @@ Highly recommended.
 
 ## [El Grande](https://boardgamegeek.com/boardgame/171908/el-grande-big-box)
 
-![El Grande](/images/covers/el-grande.jpg){: class="image-right"}
+![El Grande](/assets/images/covers/el-grande.jpg){: class="image-right"}
 
 - 1 play with 4 people
 - Played before
@@ -132,7 +132,7 @@ Recommended for those who want an area control game for those who don't like are
 
 ## [Keyflower](https://boardgamegeek.com/boardgame/122515/keyflower)
 
-![KeyFlower](/images/covers/keyflower.jpg){: class="image-right"}
+![KeyFlower](/assets/images/covers/keyflower.jpg){: class="image-right"}
 
 - 1 play with 6 people
 - Played before

@@ -7,7 +7,7 @@ categories:
 ---
 ## [Star Wars: Armada](https://boardgamegeek.com/boardgame/163745/star-wars-armada)
 
-<img src="/images/covers/star-wars-armada.jpg" alt=“Star Wars: Armada” class="image-right" />
+<img src="/assets/images/covers/star-wars-armada.jpg" alt=“Star Wars: Armada” class="image-right" />
 
 - 1 play with 2 players
 - Not played before
@@ -24,7 +24,7 @@ I think there’s a lot to like here for the serious player, the person who can 
 
 ## [Concordia](https://boardgamegeek.com/boardgame/124361/concordia)
 
-<img src="/images/covers/concordia.jpg" alt=“Concordia” class="image-right" />
+<img src="/assets/images/covers/concordia.jpg" alt=“Concordia” class="image-right" />
 
 - 1 play with 3 players
 - Played before
@@ -41,7 +41,7 @@ The more I play this game, the more I enjoy it and while it still feels long, I 
 
 ## [Glory to Rome](https://boardgamegeek.com/boardgame/19857/glory-rome)
 
-<img src="/images/covers/glory-to-rome.png" alt=“Glory to Rome” class="image-right" />
+<img src="/assets/images/covers/glory-to-rome.png" alt=“Glory to Rome” class="image-right" />
 
 - 2 plays with 2 players
 - Played before

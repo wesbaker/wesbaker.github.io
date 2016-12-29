@@ -7,7 +7,7 @@ categories:
 ---
 ## [Abyss](https://boardgamegeek.com/boardgame/155987/abyss)
 
-![Abyss](/images/covers/abyss.jpg){: class="image-right"}
+![Abyss](/assets/images/covers/abyss.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -18,7 +18,7 @@ Recommended.
 
 ## [Best Treehouse Ever](https://boardgamegeek.com/boardgame/171890/best-treehouse-ever)
 
-![Best Treehouse Ever](/images/covers/best-treehouse-ever.png){: class="image-right"}
+![Best Treehouse Ever](/assets/images/covers/best-treehouse-ever.png){: class="image-right"}
 
 - 1 play with 2 players
 - New to me
@@ -29,7 +29,7 @@ Not recommended.
 
 ## [The Grizzled](https://boardgamegeek.com/boardgame/171668/grizzled)
 
-![The Grizzled](/images/covers/the-grizzled.jpg){: class="image-right"}
+![The Grizzled](/assets/images/covers/the-grizzled.jpg){: class="image-right"}
 
 - 2 plays with 2 players, 3 plays with 4 players, 2 plays with 5 players
 - New to me
@@ -38,7 +38,7 @@ You're probably going to lose the first few games of **The Grizzled**, it's a to
 
 ## [Clash of Cultures](https://boardgamegeek.com/boardgame/40765/clash-cultures)
 
-![Clash of Cultures](/images/covers/clash-of-cultures.jpg){: class="image-right"}
+![Clash of Cultures](/assets/images/covers/clash-of-cultures.jpg){: class="image-right"}
 
 - 1 (half) play with 4 players
 - Played before
@@ -49,7 +49,7 @@ Recommended for fans of long games.
 
 ## [Room 25](https://boardgamegeek.com/boardgame/127024/room-25)
 
-![Room 25](/images/covers/room-25.jpg){: class="image-right"}
+![Room 25](/assets/images/covers/room-25.jpg){: class="image-right"}
 
 - 1 play with 6 players
 - New to me
@@ -60,7 +60,7 @@ Not recommended.
 
 ## [Warhammer Quest: The Adventure Card Game](https://boardgamegeek.com/boardgame/181521/warhammer-quest-adventure-card-game)
 
-![Warhammer Quest: The Adventure Card Game](/images/covers/warhammer-quest-the-adventure-card-game.jpg){: class="image-right"}
+![Warhammer Quest: The Adventure Card Game](/assets/images/covers/warhammer-quest-the-adventure-card-game.jpg){: class="image-right"}
 
 - 2 plays with 1 player
 - New to me
@@ -77,7 +77,7 @@ Highly recommended for solo gamers.
 
 ## [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
-![Blood Rage](/images/covers/blood-rage.jpg){: class="image-right"}
+![Blood Rage](/assets/images/covers/blood-rage.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -88,7 +88,7 @@ Highly recommended. **Top 10**
 
 ## [Pairs](https://boardgamegeek.com/boardgame/152237/pairs)
 
-![Pairs](/images/covers/pairs.jpg){: class="image-right"}
+![Pairs](/assets/images/covers/pairs.jpg){: class="image-right"}
 
 - 1 play with 6 players, 1 play with 5 players„
 - New to me
@@ -99,7 +99,7 @@ Recommended.
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-![Codenames](/images/covers/codenames.jpg){: class="image-right"}
+![Codenames](/assets/images/covers/codenames.jpg){: class="image-right"}
 
 - 4 plays with 7 players, 2 plays with 5 players
 - Played before
@@ -110,7 +110,7 @@ Highly recommended.
 
 ## [Port Royal](https://boardgamegeek.com/boardgame/156009/port-royal)
 
- ![Port Royal](/images/covers/port-royal.jpg){: class="image-right"}
+ ![Port Royal](/assets/images/covers/port-royal.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -121,7 +121,7 @@ Recommended, but try it first.
 
 ## [Castles of Mad King Ludwig](https://boardgamegeek.com/boardgame/155426/castles-mad-king-ludwig)
 
-![Castles of Mad King Ludwig](/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
+![Castles of Mad King Ludwig](/assets/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -132,7 +132,7 @@ Highly recommended.
 
 ## [Between Two Cities](https://boardgamegeek.com/boardgame/168435/between-two-cities)
 
-![Between Two Cities](/images/covers/between-two-cities.jpg){: class="image-right"}
+![Between Two Cities](/assets/images/covers/between-two-cities.jpg){: class="image-right"}
 
  - 1 play with 3 players
 - Played before
@@ -143,7 +143,7 @@ Highly recommended.
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
-![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
+![7 Wonders: Duel](/assets/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - New to me
@@ -156,7 +156,7 @@ Highly recommended.
 
 ## [Ticket to Ride Map Collection: Volume 5 - United Kingdom & Pennsylvania](https://boardgamegeek.com/boardgameexpansion/182078/ticket-ride-map-collection-volume-5-united-kingdom)
 
-![Ticket to Ride: UK and Pennsylvania](/images/covers/ticket-to-ride-uk-and-pennsylvania.jpg){: class="image-right"}
+![Ticket to Ride: UK and Pennsylvania](/assets/images/covers/ticket-to-ride-uk-and-pennsylvania.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - New to me
@@ -169,7 +169,7 @@ Recommended for fans of **Ticket to Ride**.
 
 ## [Colt Express](https://boardgamegeek.com/boardgame/158899/colt-express)
 
-![Colt Express](/images/covers/colt-express.jpg){: class="image-right"}
+![Colt Express](/assets/images/covers/colt-express.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Played before
@@ -182,7 +182,7 @@ Recommended.
 
 ## [Rhino Hero](https://boardgamegeek.com/boardgame/91514/rhino-hero)
 
-![Super Rhino!](/images/covers/rhino-hero.jpg){: class="image-right"}
+![Super Rhino!](/assets/images/covers/rhino-hero.jpg){: class="image-right"}
 
 - 3 plays with 5 players
 - Played before

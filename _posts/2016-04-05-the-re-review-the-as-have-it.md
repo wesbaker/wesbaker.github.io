@@ -7,7 +7,7 @@ categories:
 ---
 ## [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
 
- ![Alchemists](/images/covers/alchemists.png){: class="image-right"}
+ ![Alchemists](/assets/images/covers/alchemists.png){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -24,7 +24,7 @@ Recommended.
 
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
+![Arcadia Quest](/assets/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before

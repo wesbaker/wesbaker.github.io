@@ -7,7 +7,7 @@ categories:
 ---
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
+![Arcadia Quest](/assets/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 1 play with 3 players this week
 - Played before
@@ -28,7 +28,7 @@ I'm happy I own this game and I have the first expansion, but I'll probably stop
 
 ## [Viticulture](https://boardgamegeek.com/boardgame/128621/viticulture)
 
-![Viticulture](/images/covers/viticulture.jpg){: class="image-right"}
+![Viticulture](/assets/images/covers/viticulture.jpg){: class="image-right"}
 
 - 2 plays with 1 player this week
 - Played before
@@ -49,7 +49,7 @@ I'm happy I bought both **Viticulture** and **Tuscany**, but I'm not sure I woul
 
 ## [Innovation](http://www.boardgamegeek.com/boardgame/63888/innovation)
 
-![Innovation](/images/covers/innovation.jpg){: class="image-right"}
+![Innovation](/assets/images/covers/innovation.jpg){: class="image-right"}
 
 - 3 plays with 3 players this week
 - Played before
@@ -64,7 +64,7 @@ I recommend *trying* this game, probably [online](http://innovation.isotropic.or
 
 ## [Five Tribes](http://boardgamegeek.com/boardgame/157354/five-tribes)
 
-![Five Tribes](/images/covers/five-tribes.jpg){: class="image-right"}
+![Five Tribes](/assets/images/covers/five-tribes.jpg){: class="image-right"}
 
 - 1 play with 4 players this week
 - Played before
@@ -78,7 +78,7 @@ This is a fantastic game and I'm very happy to own it.
 
 ## [Marvel Legendary](http://boardgamegeek.com/boardgame/129437/legendary-a-marvel-deck-building-game)
 
-![Marvel Legendary](/images/covers/marvel-legendary.jpg){: class="image-right"}
+![Marvel Legendary](/assets/images/covers/marvel-legendary.jpg){: class="image-right"}
 
 - 1 play with 5 players this week
 - Played before
@@ -93,7 +93,7 @@ That being said, I'd love to try out the Guardians of the Galaxy expansion, but 
 
 ## [Neuroshima Hex](http://www.boardgamegeek.com/boardgame/21241/neuroshima-hex)
 
-![Neuroshima Hex](/images/covers/neuroshima-hex.jpg){: class="image-right"}
+![Neuroshima Hex](/assets/images/covers/neuroshima-hex.jpg){: class="image-right"}
 
 - 1 play with 2 players this week
 - Not played before
@@ -114,7 +114,7 @@ This game is at least worth a purchase if you own an iPad, iPhone, or Android de
 
 ## [Castles of Mad King Ludwig](http://boardgamegeek.com/boardgame/155426/castles-mad-king-ludwig)
 
-![Castles of Mad King Ludwig](/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
+![Castles of Mad King Ludwig](/assets/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
 
 - 2 plays with 1 player, and 1 play with 2 players this week
 - Not played before

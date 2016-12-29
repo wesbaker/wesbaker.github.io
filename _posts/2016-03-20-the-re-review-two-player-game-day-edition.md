@@ -7,7 +7,7 @@ categories:
 ---
 ## [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
-![Blood Rage](/images/covers/blood-rage.jpg){: class="image-right"}
+![Blood Rage](/assets/images/covers/blood-rage.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -21,7 +21,7 @@ Tentatively recommended.
 
 ## [Concordia](https://boardgamegeek.com/boardgame/124361/concordia)
 
-![Concordia](/images/covers/concordia.jpg){: class="image-right"}
+![Concordia](/assets/images/covers/concordia.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -34,7 +34,7 @@ Recommended.
 
 ## [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 
-![Twilight Struggle](/images/covers/twilight-struggle.jpg){: class="image-right"}
+![Twilight Struggle](/assets/images/covers/twilight-struggle.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -49,7 +49,7 @@ Recommended, but understand it's a three hour game about The Cold War and, thema
 
 ## [The Duke](https://boardgamegeek.com/boardgame/36235/duke)
 
-![The Duke](/images/covers/the-duke.jpg){: class="image-right"}
+![The Duke](/assets/images/covers/the-duke.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -66,7 +66,7 @@ Recommended.
 
 ## [Claustrophobia](https://boardgamegeek.com/boardgame/36932/claustrophobia)
 
-![Claustrophobia](/images/covers/claustrophobia.jpg){: class="image-right"}
+![Claustrophobia](/assets/images/covers/claustrophobia.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -81,7 +81,7 @@ Recommended.
 
 ## [Raptor](https://boardgamegeek.com/boardgame/177639/raptor)
 
-![Raptor](/images/covers/raptor.jpg){: class="image-right"}
+![Raptor](/assets/images/covers/raptor.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - New to me
@@ -94,7 +94,7 @@ Highly recommended.
 
 ## [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)
 
-![Battle Line](/images/covers/battle-line.jpg){: class="image-right"}
+![Battle Line](/assets/images/covers/battle-line.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -105,7 +105,7 @@ Recommended.
 
 ## [BattleLore](https://boardgamegeek.com/boardgame/146439/battlelore-second-edition)
 
-![BattleLore](/images/covers/battlelore.jpg){: class="image-right"}
+![BattleLore](/assets/images/covers/battlelore.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -120,7 +120,7 @@ Recommended.
 
 ## [Risk: Star Wars Edition](https://boardgamegeek.com/boardgame/183880/risk-star-wars-edition)
 
-![Risk: Star Wars Edition](/images/covers/risk-star-wars-edition.jpg){: class="image-right"}
+![Risk: Star Wars Edition](/assets/images/covers/risk-star-wars-edition.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - New to me

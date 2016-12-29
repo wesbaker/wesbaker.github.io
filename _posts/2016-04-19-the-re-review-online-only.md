@@ -7,7 +7,7 @@ categories:
 ---
 ## [Russian Railroads](https://boardgamegeek.com/boardgame/144733/russian-railroads)
 
-![Russian Railroads](/images/covers/russian-railroads.jpg){: class="image-right"}
+![Russian Railroads](/assets/images/covers/russian-railroads.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -18,7 +18,7 @@ Not recommended unless you're a fan of low-conflict efficiency puzzles.
 
 ## [Keyflower](https://boardgamegeek.com/boardgame/122515/keyflower)
 
-![Keyflower](/images/covers/keyflower.jpg){: class="image-right"}
+![Keyflower](/assets/images/covers/keyflower.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -29,7 +29,7 @@ Recommended.
 
 ## [Through the Ages](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
+![Through the Ages](/assets/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -40,7 +40,7 @@ Highly recommended.
 
 ## [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
-![Food Chain Magnate](/images/covers/food-chain-magnate.jpg){: class="image-right"}
+![Food Chain Magnate](/assets/images/covers/food-chain-magnate.jpg){: class="image-right"}
 
 - 1 play with 3 players, 1 play with 2 players
 - New to me

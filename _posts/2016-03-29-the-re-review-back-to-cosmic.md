@@ -7,7 +7,7 @@ categories:
 ---
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
+![Arcadia Quest](/assets/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -19,7 +19,7 @@ Recommended.
 
 ## [Through the Ages](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
+![Through the Ages](/assets/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -30,7 +30,7 @@ Highly recommended. **Top 5**
 
 ## [Viticulture](https://boardgamegeek.com/boardgame/128621/viticulture)
 
-![Viticulture](/images/covers/viticulture.jpg){: class="image-right"}
+![Viticulture](/assets/images/covers/viticulture.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -41,7 +41,7 @@ Recommended.
 
 ## [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
 
-![Monikers](/images/covers/monikers.png){: class="image-right"}
+![Monikers](/assets/images/covers/monikers.png){: class="image-right"}
 
 - 1 play with 10 people
 - Played before
@@ -52,7 +52,7 @@ Highly recommended.
 
 ## [Mission: Red Planet](https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition)
 
-![Mission: Red Planet](/images/covers/mission-red-planet.jpg){: class="image-right"}
+![Mission: Red Planet](/assets/images/covers/mission-red-planet.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Played before
@@ -63,7 +63,7 @@ Recommended.
 
 ## [Specter Ops](https://boardgamegeek.com/boardgame/155624/specter-ops)
 
-![Specter Ops](/images/covers/specter-ops.jpg){: class="image-right"}
+![Specter Ops](/assets/images/covers/specter-ops.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -80,7 +80,7 @@ Not recommended.
 
 ## [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter)
 
-![Cosmic Encounter](/images/covers/cosmic-encounter.jpg){: class="image-right"}
+![Cosmic Encounter](/assets/images/covers/cosmic-encounter.jpg){: class="image-right"}
 
 - 1 play with 6 players
 - Played before
@@ -103,7 +103,7 @@ Highly recommended. **Top 1**
 
 ## [Stockpile](https://boardgamegeek.com/boardgame/161614/stockpile)
 
-![Stockpile](/images/covers/stockpile.jpg){: class="image-right"}
+![Stockpile](/assets/images/covers/stockpile.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Played before

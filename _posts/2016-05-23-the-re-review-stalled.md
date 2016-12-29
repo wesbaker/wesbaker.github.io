@@ -7,7 +7,7 @@ categories:
 ---
 ## [Through the Ages](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
+![Through the Ages](/assets/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - Played before
@@ -18,7 +18,7 @@ Highly recommended.
 
 ## [Magic: The Gathering](https://boardgamegeek.com/boardgame/463/magic-gathering)
 
-![Magic](/images/covers/magic.jpg){: class="image-right"}
+![Magic](/assets/images/covers/magic.jpg){: class="image-right"}
 
 - 5 plays with 2 people
 - Played before
@@ -29,7 +29,7 @@ Not recommended.
 
 ## [Dale of Merchants](https://boardgamegeek.com/boardgame/176165/dale-merchants)
 
-![Dale of Merchants](/images/covers/dale-of-merchants.jpg){: class="image-right"}
+![Dale of Merchants](/assets/images/covers/dale-of-merchants.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - Played before
@@ -40,7 +40,7 @@ Not recommended.
 
 ## [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 
-![Five Tribes](/images/covers/five-tribes.jpg){: class="image-right"}
+![Five Tribes](/assets/images/covers/five-tribes.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - Played before
@@ -54,7 +54,7 @@ Highly recommended.
 
 ## [Burgle Bros](https://boardgamegeek.com/boardgame/160968/homeland-game)
 
-![Burgle Bros](/images/covers/burgle-bros.jpg){: class="image-right"}
+![Burgle Bros](/assets/images/covers/burgle-bros.jpg){: class="image-right"}
 
 - 1 play with 4 people
 - Played before
@@ -69,7 +69,7 @@ Recommended.
 
 ## [Homeland: The Game](https://boardgamegeek.com/boardgame/172081/burgle-bros)
 
-![Homeland](/images/covers/homeland.jpg){: class="image-right"}
+![Homeland](/assets/images/covers/homeland.jpg){: class="image-right"}
 
 - 1 play with 5 people
 - Played before

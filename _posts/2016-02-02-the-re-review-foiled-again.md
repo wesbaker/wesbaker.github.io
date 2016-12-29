@@ -7,7 +7,7 @@ categories:
 ---
 ## [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage "Blood Rage")
 
-![Blood Rage](/images/covers/blood-rage.jpg){: class="image-right"}
+![Blood Rage](/assets/images/covers/blood-rage.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -17,7 +17,7 @@ categories:
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel "7 Wonders: Duel")
 
-![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
+![7 Wonders: Duel](/assets/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -27,7 +27,7 @@ I really do enjoy **7 Wonders: Duel**, even if it made me realize that any game 
 
 ## [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy "Roll for the Galaxy")
 
-![Roll for the Galaxy](/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
+![Roll for the Galaxy](/assets/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -42,7 +42,7 @@ I'm still happy playing this game, but this was the first time where we both saw
 
 ## [Clash of Cultures](https://boardgamegeek.com/boardgame/40765/clash-cultures)
 
-![Clash of Cultures](/images/covers/clash-of-cultures.jpg){: class="image-right"}
+![Clash of Cultures](/assets/images/covers/clash-of-cultures.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -51,7 +51,7 @@ There's nothing quite like taking a tiny little civilization and seeing it grow 
 
 ## [Homeland](https://boardgamegeek.com/boardgame/160968/homeland-game)
 
-![Homeland](/images/covers/homeland.jpg){: class="image-right"}
+![Homeland](/assets/images/covers/homeland.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -60,7 +60,7 @@ There's nothing quite like taking a tiny little civilization and seeing it grow 
 
 ## [Warhammer Quest: The Adventure Card Game](https://boardgamegeek.com/boardgame/181521/warhammer-quest-adventure-card-game)
 
-![Warhammer Quest: The Adventure Card Game](/images/covers/warhammer-quest-the-adventure-card-game.jpg){: class="image-right"}
+![Warhammer Quest: The Adventure Card Game](/assets/images/covers/warhammer-quest-the-adventure-card-game.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before

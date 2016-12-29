@@ -7,7 +7,7 @@ categories:
 ---
 ## [Castles of Mad King Ludwig](https://boardgamegeek.com/boardgame/155426/castles-mad-king-ludwig)
 
- ![Castles of Mad King Ludwig](/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
+ ![Castles of Mad King Ludwig](/assets/images/covers/castles-of-mad-king-ludwig.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -18,7 +18,7 @@ Highly recommended.
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-![Codenames](/images/covers/codenames.jpg){: class="image-right"}
+![Codenames](/assets/images/covers/codenames.jpg){: class="image-right"}
 
 - 1 play with 9 players, 2 plays with 5 players
 - Played before
@@ -31,7 +31,7 @@ Highly recommended.
 
 ## [Super Rhino!](https://boardgamegeek.com/boardgame/91514/rhino-hero)
 
-![Super Rhino!](/images/covers/rhino-hero.jpg){: class="image-right"}
+![Super Rhino!](/assets/images/covers/rhino-hero.jpg){: class="image-right"}
 
 - 2 plays with 5 players
 - Played before
@@ -44,7 +44,7 @@ Recommended.
 
 ## [Mare Nostrum](https://boardgamegeek.com/boardgame/3931/mare-nostrum)
 
-![Mare Nostrum](/images/covers/mare-nostrum.jpg){: class="image-right"}
+![Mare Nostrum](/assets/images/covers/mare-nostrum.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - New to me

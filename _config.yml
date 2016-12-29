@@ -1,18 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: Wes Baker
+description: Software Engineering, Board Games, and Books
+meta_description: "Wes Baker: Software Engineering, Board Games, and Books"
 
-# Site settings
-title: Wes Baker
-description: Copyright © 2010-2016 Wes Baker
-baseurl: # the subpath of your site, e.g. /blog
-url: "http://wesbaker.github.io" # the base hostname & protocol for your site
-twitter_username: wesbaker
-github_username:  wesbaker
-permalink: /:year/:month/:title
-
-# Build settings
 markdown: kramdown
+highlighter: pygments
+logo: true
+paginate: 10
+baseurl: /
+domain_name: 'http://wesbaker.com'
+google_analytics: 'UA-89594185-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://wesbaker.com'
+author:         'Wes Baker'

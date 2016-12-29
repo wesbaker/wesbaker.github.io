@@ -7,7 +7,7 @@ categories:
 ---
 ## [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
 
-![Five Tribes](/images/covers/five-tribes.jpg){: class="image-right"}
+![Five Tribes](/assets/images/covers/five-tribes.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -25,7 +25,7 @@ If you already own **Five Tribes** (which you should) then you owe it to yoursel
 
 ## [Mottainai](https://boardgamegeek.com/boardgame/175199/mottainai)
 
-![Mottainai](/images/covers/mottainai.jpg){: class="image-right"}
+![Mottainai](/assets/images/covers/mottainai.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - New to me
@@ -42,7 +42,7 @@ If you already have **Glory to Rome**, I'd skip this one. If you don't have **Gl
 
 ## [Tiny Epic Galaxies](https://boardgamegeek.com/boardgame/163967/tiny-epic-galaxies)
 
-![Tiny Epic Galaxies](/images/covers/tiny-epic-galaxies.jpg){: class="image-right"}
+![Tiny Epic Galaxies](/assets/images/covers/tiny-epic-galaxies.jpg){: class="image-right"}
 
 - 1 play with 1 player
 - New to me

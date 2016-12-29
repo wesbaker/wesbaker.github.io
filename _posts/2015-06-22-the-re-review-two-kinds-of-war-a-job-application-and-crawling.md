@@ -7,7 +7,7 @@ categories:
 ---
 ## [1775: Rebellion](https://boardgamegeek.com/boardgame/128996/1775-rebellion)
 
-![1775: Rebellion](/images/covers/1775-rebellion.jpg){: class="image-right"}
+![1775: Rebellion](/assets/images/covers/1775-rebellion.jpg){: class="image-right"}
 
 - 1 play with 4 players this week
 - Played before
@@ -20,7 +20,7 @@ I'm a little sad that I don't get the play this game more often. It really is th
 
 ## [Funemployed!](https://boardgamegeek.com/boardgame/142296/funemployed)
 
-![Funemployed!](/images/covers/funemployed.jpg){: class="image-right"}
+![Funemployed!](/assets/images/covers/funemployed.jpg){: class="image-right"}
 
 - 1 play with 4 players this week
 - New to me
@@ -33,7 +33,7 @@ However what makes this game unique also makes it difficult. Taking those for tr
 
 ## [Chaos in the Old World](https://boardgamegeek.com/boardgame/43111/chaos-old-world)
 
-![Chaos in the Old World](/images/covers/chaos-in-the-old-world.jpg){: class="image-right"}
+![Chaos in the Old World](/assets/images/covers/chaos-in-the-old-world.jpg){: class="image-right"}
 
 - 1 play with 5 players this week
 - Played before
@@ -47,7 +47,7 @@ I'm happy this game is on my 10x10 list, since it'll push me to get it played mo
 
 ## [Welcome to the Dungeon](https://boardgamegeek.com/boardgame/150312/welcome-dungeon)
 
-![Welcome to the Dungeon](/images/covers/welcome-to-the-dungeon.jpg){: class="image-right"}
+![Welcome to the Dungeon](/assets/images/covers/welcome-to-the-dungeon.jpg){: class="image-right"}
 
 - 1 play with 4 players this week
 - New to me

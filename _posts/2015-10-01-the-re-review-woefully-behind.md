@@ -7,7 +7,7 @@ categories:
 ---
 ## [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter)
 
-![Cosmic Encounter](/images/covers/cosmic-encounter.jpg){: class="image-right"}
+![Cosmic Encounter](/assets/images/covers/cosmic-encounter.jpg){: class="image-right"}
 
 - 1 play with 5 players
 - Played before
@@ -19,7 +19,7 @@ In this particular game, I was the Parasite which meant that no one could refuse
 
 ## [Spyfall](https://boardgamegeek.com/boardgame/166384/spyfall)
 
-![Spyfall](/images/covers/spyfall.jpg){: class="image-right"}
+![Spyfall](/assets/images/covers/spyfall.jpg){: class="image-right"}
 
 - 2 plays with 5 players
 - Played before
@@ -30,7 +30,7 @@ However, with a group of experienced players who know each other and enjoy this 
 
 ## [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)
 
-![7 Wonders](/images/covers/7-wonders.jpg){: class="image-right"}
+![7 Wonders](/assets/images/covers/7-wonders.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before
@@ -41,7 +41,7 @@ In this particular game I heavily went for resources and largely ignored blue ca
 
 ## [Stockpile](https://boardgamegeek.com/boardgame/161614/stockpile)
 
-![Stockpile](/images/covers/stockpile.jpg){: class="image-right"}
+![Stockpile](/assets/images/covers/stockpile.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - New to me
@@ -56,7 +56,7 @@ There's a lot to like here: easy rules, quick playing time, real world theme and
 
 ## [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
 
-![Monikers](/images/covers/monikers.png){: class="image-right"}
+![Monikers](/assets/images/covers/monikers.png){: class="image-right"}
 
 - 1 play with 8 players
 - New to me
@@ -69,7 +69,7 @@ In our game we didn't keep score, we treated it mostly as an activity which is *
 
 ## [One Night Ultimate Werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
 
-![One Night Ultimate Werewolf](/images/covers/one-night-ultimate-werewolf.jpg){: class="image-right"}
+![One Night Ultimate Werewolf](/assets/images/covers/one-night-ultimate-werewolf.jpg){: class="image-right"}
 
 - 2 plays with 8 players
 - Played before
@@ -82,7 +82,7 @@ I do enjoy this game, but be wary of players like this and discourage that kind 
 
 ## [Isle of Skye](https://boardgamegeek.com/boardgame/176494/isle-skye-chieftain-king)
 
-![Isle of Skye](/images/covers/isle-of-skye.jpg){: class="image-right"}
+![Isle of Skye](/assets/images/covers/isle-of-skye.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -95,7 +95,7 @@ I enjoyed my play of this quite a bit, the meat of it being the pricing which re
 
 ## [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
 
-![Alchemists](/images/covers/alchemists.png){: class="image-right"}
+![Alchemists](/assets/images/covers/alchemists.png){: class="image-right"}
 
 - 1 play with 2 players, 1 play with 4 players
 - New to me
@@ -108,7 +108,7 @@ In two games my wife and I have each won once, both times within one point of th
 
 ## [Star Wars: Imperial Assault](https://boardgamegeek.com/boardgame/164153/star-wars-imperial-assault)
 
-![Star Wars: Imperial Assault](/images/covers/star-wars-imperial-assault.jpg){: class="image-right"}
+![Star Wars: Imperial Assault](/assets/images/covers/star-wars-imperial-assault.jpg){: class="image-right"}
 
 - 2 plays with 3 players
 - Played before
@@ -120,7 +120,7 @@ Thankfully, I prevented the Rebels from gaining Chewbacca as an ally, but I'm no
 
 ## [Rhino Hero](https://boardgamegeek.com/boardgame/91514/rhino-hero)
 
-![Rhino Hero](/images/covers/rhino-hero.jpg){: class="image-right"}
+![Rhino Hero](/assets/images/covers/rhino-hero.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - New to me
@@ -131,7 +131,7 @@ The winner is the person who gets rid of their cards first, alternatively the lo
 
 ## [Ashes: Rise of the Phoenixborn](https://boardgamegeek.com/boardgame/167400/ashes-rise-phoenixborn)
 
-![Ashes: Rise of the Phoenixborn](/images/covers/ashes-rise-of-the-phoenixborn.jpg){: class="image-right"}
+![Ashes: Rise of the Phoenixborn](/assets/images/covers/ashes-rise-of-the-phoenixborn.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -140,7 +140,7 @@ In this particular game of **Ashes** I played with Noah Redmoon's base deck and 
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-![Codenames](/images/covers/codenames.jpg){: class="image-right"}
+![Codenames](/assets/images/covers/codenames.jpg){: class="image-right"}
 
 - 3 plays with 6 players, 2 plays with 11 players
 - New to me
@@ -153,7 +153,7 @@ The biggest problem is remaining straight faced as the spymaster and giving **no
 
 ## [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)
 
-![Terra Mystica](/images/covers/terra-mystica.jpg){: class="image-right"}
+![Terra Mystica](/assets/images/covers/terra-mystica.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -163,7 +163,7 @@ Alright, we're done with the party games for now and on to meatier fare. **Terra
 
 ## [Nations: The Dice Game](https://boardgamegeek.com/boardgame/157809/nations-dice-game)
 
-![Nations: The Dice Game](/images/covers/nations-the-dice-game.jpg){: class="image-right"}
+![Nations: The Dice Game](/assets/images/covers/nations-the-dice-game.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -174,7 +174,7 @@ I liked my play of **Nations: The Dice Game** enough to (briefly) add it to my w
 
 ## [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy "Race for the Galaxy")
 
-![Race for the Galaxy](/images/covers/race-for-the-galaxy.jpg){: class="image-right"}
+![Race for the Galaxy](/assets/images/covers/race-for-the-galaxy.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - Played before
@@ -183,7 +183,7 @@ I liked my play of **Nations: The Dice Game** enough to (briefly) add it to my w
 
 ## [Viceroy](https://boardgamegeek.com/boardgame/157526/viceroy "Viceroy")
 
-![Viceroy](/images/covers/viceroy.jpg){: class="image-right"}
+![Viceroy](/assets/images/covers/viceroy.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me
@@ -192,7 +192,7 @@ I backed this game on Kickstarter due to Tom Vasel's review and while I enjoyed 
 
 ## [Caverna](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers "Caverna: The Cave Farmers")
 
-![Caverna](/images/covers/caverna.jpg){: class="image-right"}
+![Caverna](/assets/images/covers/caverna.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -202,7 +202,7 @@ My wife agreed to start using the larger set of furnishings which allowed us to 
 
 ## [Ticket to Ride](https://boardgamegeek.com/boardgame/9209/ticket-ride "Ticket to Ride")
 
-![Ticket to Ride](/images/covers/ticket-to-ride.jpg){: class="image-right"}
+![Ticket to Ride](/assets/images/covers/ticket-to-ride.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -213,7 +213,7 @@ We don't play **Ticket to Ride** much, but it's definitely a nice and relaxing g
 
 ## [Evolution](https://boardgamegeek.com/boardgame/155703/evolution "Evolution")
 
-![Evolution](/images/covers/evolution.jpg){: class="image-right"}
+![Evolution](/assets/images/covers/evolution.jpg){: class="image-right"}
 
 - 1 play with 3 players
 - New to me

@@ -5,7 +5,7 @@ date:   2016-09-19 11:43:14 -0400
 ---
 ## [Mombasa](https://boardgamegeek.com/boardgame/172386/mombasa)
 
-![Mombasa](/images/covers/mombasa.jpg){: class="image-right"}
+![Mombasa](/assets/images/covers/mombasa.jpg){: class="image-right"}
 
 - 2 plays with 2 people
 - New to me
@@ -26,7 +26,7 @@ Recommended.
 
 ## [Carson City](https://boardgamegeek.com/boardgame/177352/carson-city-big-box)
 
-![Carson City](/images/covers/carson-city.jpg){: class="image-right"}
+![Carson City](/assets/images/covers/carson-city.jpg){: class="image-right"}
 
 - 1 play with 4 people
 - Played before

@@ -1,0 +1,36 @@
+---
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+.post-header {
+  margin-bottom: 16px;
+}
+
+.post-content {
+  .image-right {
+    float: right;
+    margin: 0 0 16px 16px;
+  }
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2.6rem;
+}
+
+h4 {
+  font-size: 2.0rem;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax"
+;

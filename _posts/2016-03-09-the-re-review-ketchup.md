@@ -7,7 +7,7 @@ categories:
 ---
 ## [Roll for the Galaxy](https://boardgamegeek.com/boardgame/132531/roll-galaxy "Roll for the Galaxy")
 
-![Roll for the Galaxy](/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
+![Roll for the Galaxy](/assets/images/covers/roll-for-the-galaxy.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -19,7 +19,7 @@ Tentatively recommended.
 
 ## [7 Wonders: Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel "7 Wonders: Duel")
 
-![7 Wonders: Duel](/images/covers/7-wonders-duel.jpg){: class="image-right"}
+![7 Wonders: Duel](/assets/images/covers/7-wonders-duel.jpg){: class="image-right"}
 
 - 2 plays with 2 players
 - Played before
@@ -31,7 +31,7 @@ Highly recommended.
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-![Codenames](/images/covers/codenames.jpg){: class="image-right"}
+![Codenames](/assets/images/covers/codenames.jpg){: class="image-right"}
 
 - 2 plays with 6 players
 - Played before
@@ -44,7 +44,7 @@ Highly recommended.
 
 ## [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
 
-![Wits & Wagers](/images/covers/wits-wagers.jpg){: class="image-right"}
+![Wits & Wagers](/assets/images/covers/wits-wagers.jpg){: class="image-right"}
 
 - 1 play with 8 players
 - Played before
@@ -55,7 +55,7 @@ Recommended for a crowd.
 
 ## [Monikers](https://boardgamegeek.com/boardgame/156546/monikers)
 
-![Monikers](/images/covers/monikers.png){: class="image-right"}
+![Monikers](/assets/images/covers/monikers.png){: class="image-right"}
 
 - 1 play with 7 players
 - Played before
@@ -66,7 +66,7 @@ Recommended.
 
 ## [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
 
-![Through the Ages](/images/covers/through-the-ages.jpg){: class="image-right"}
+![Through the Ages](/assets/images/covers/through-the-ages.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -77,7 +77,7 @@ Highly recommended. One of the best games I've ever played.
 
 ## [Alchemists](https://boardgamegeek.com/boardgame/161970/alchemists)
 
-![Alchemists](/images/covers/alchemists.png){: class="image-right"}
+![Alchemists](/assets/images/covers/alchemists.png){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -88,7 +88,7 @@ Recommendation on hold.
 
 ## [Port Royal](https://boardgamegeek.com/boardgame/156009/port-royal)
 
-![Port Royal](/images/covers/port-royal.jpg){: class="image-right"}
+![Port Royal](/assets/images/covers/port-royal.jpg){: class="image-right"}
 
 - 1 play with 2 players
 - Played before
@@ -102,7 +102,7 @@ Recommended.
 
 ## [Arcadia Quest](https://boardgamegeek.com/boardgame/155068/arcadia-quest)
 
-![Arcadia Quest](/images/covers/arcadia-quest.jpg){: class="image-right"}
+![Arcadia Quest](/assets/images/covers/arcadia-quest.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Played before

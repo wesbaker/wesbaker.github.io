@@ -5,7 +5,7 @@ date:   2016-07-18 11:48:09 -0400
 ---
 ## [The Voyages of Marco Polo](https://boardgamegeek.com/boardgame/171623/voyages-marco-polo)
 
-![The Voyages of Marco Polo](/images/covers/the-voyages-of-marco-polo.jpg){: class="image-right"}
+![The Voyages of Marco Polo](/assets/images/covers/the-voyages-of-marco-polo.jpg){: class="image-right"}
 
 - 1 plays with 2 people
 - Played before
@@ -16,7 +16,7 @@ Recommended.
 
 ## [Coconuts](https://boardgamegeek.com/boardgame/145639/coconuts)
 
-![Coconuts](/images/covers/coconuts.jpg){: class="image-right"}
+![Coconuts](/assets/images/covers/coconuts.jpg){: class="image-right"}
 
 - 3 plays with 4 people
 - New to me
@@ -27,7 +27,7 @@ Recommended.
 
 ## [6 Nimmt!](https://boardgamegeek.com/boardgame/432/6-nimmt)
 
-![6 Nimmt!](/images/covers/6-nimmt.jpg){: class="image-right"}
+![6 Nimmt!](/assets/images/covers/6-nimmt.jpg){: class="image-right"}
 
 - 2 plays with 5 people
 - Played before
@@ -38,7 +38,7 @@ Recommended
 
 ## [Mission: Red Planet](https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition)
 
-![Mission: Red Planet](/images/covers/mission-red-planet.jpg){: class="image-right"}
+![Mission: Red Planet](/assets/images/covers/mission-red-planet.jpg){: class="image-right"}
 
 - 1 play with 6 people
 - Played before
@@ -49,7 +49,7 @@ Highly recommended.
 
 ## [Flick ‘em Up!](https://boardgamegeek.com/boardgame/169124/flick-em)
 
-![Flick ‘em Up!](/images/covers/flick-em-up.jpg){: class="image-right"}
+![Flick ‘em Up!](/assets/images/covers/flick-em-up.jpg){: class="image-right"}
 
 - 1 play with 6 people and 1 play with 8 people
 - Played before
@@ -62,7 +62,7 @@ Recommended.
 
 ## [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)
 
-![Scythe](/images/covers/scythe.jpg){: class="image-right"}
+![Scythe](/assets/images/covers/scythe.jpg){: class="image-right"}
 
 - 1 play with 2 people and 1 play with 5 people
 - New to me
@@ -73,7 +73,7 @@ Tentatively recommended.
 
 ## [Star Wars: Rebellion](https://boardgamegeek.com/boardgame/187645/star-wars-rebellion)
 
-![Star Wars: Rebellion](/images/covers/star-wars-rebellion.jpg){: class="image-right"}
+![Star Wars: Rebellion](/assets/images/covers/star-wars-rebellion.jpg){: class="image-right"}
 
 - 1 play with 2 people
 - New to me
@@ -88,7 +88,7 @@ Tentatively recommended.
 
 ## [Dead of Winter](https://boardgamegeek.com/boardgame/150376/dead-winter-crossroads-game)
 
-![Dead of Winter](/images/covers/dead-of-winter.jpg){: class="image-right"}
+![Dead of Winter](/assets/images/covers/dead-of-winter.jpg){: class="image-right"}
 
 - 1 play with 3 people
 - Played before
@@ -99,7 +99,7 @@ Tentatively recommended.
 
 ## [Ra](https://boardgamegeek.com/boardgame/12/ra)
 
-![Ra](/images/covers/ra.jpg){: class="image-right"}
+![Ra](/assets/images/covers/ra.jpg){: class="image-right"}
 
 - 1 play with 4 people
 - New to me
@@ -112,7 +112,7 @@ Highly recommended.
 
 ## [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-![Codenames](/images/covers/codenames.jpg){: class="image-right"}
+![Codenames](/assets/images/covers/codenames.jpg){: class="image-right"}
 
 - 2 plays with 9 people
 - Played before

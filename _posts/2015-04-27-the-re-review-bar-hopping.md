@@ -7,7 +7,7 @@ categories:
 ---
 ## Beasty Bar
 
-![Beasty Bar](/images/covers/beasty-bar.jpg){: class="image-right"}
+![Beasty Bar](/assets/images/covers/beasty-bar.jpg){: class="image-right"}
 
 - 1 play with 4 players
 - Not played before
