@@ -3,7 +3,7 @@ description: Software Engineering, Board Games, and Books
 meta_description: "Wes Baker: Software Engineering, Board Games, and Books"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 10
 baseurl: /
