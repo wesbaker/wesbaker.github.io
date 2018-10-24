@@ -16,7 +16,7 @@ Some preamble: I buy a lot of RPG material. Rulebooks, modules, random tables, s
 
 A while back, [Ray Otus](http://www.rayotus.com/) had a great series called [RPG Tax](http://rpgtax.blogspot.com/) where he reviewed items in his collection that he had purchased, but hadn’t read for one reason or another. Looking around Google+, I also saw [Sophia Brandt](https://sophiabrandt.com/) has at least [one post](https://plus.google.com/+SophiaBrandt/posts/DNray6CCZ6y) with a `#rpgtax` tag, and I think I recall Ray saying she may have started the trend. I’m not sure. Either way, I’d like to do something similar. My pace will be largely based on my reading pace and the size of what I’m reading.
 
-With that out of the way, let’s talk about _Sky ov Crimson Flame_. The book itself contains two things: a level 0 funnel—the eponymous _Sky ov Crimson Flame_—and _Blights ov the Eastern Forest_, a level 1 hex crawl. The book is 60 pages and half is dedicated to the funnel and half is dedicated to the hex crawl.
+With that out of the way, lets talk about _Sky ov Crimson Flame_. The book itself contains two things: a level 0 funnel—the eponymous _Sky ov Crimson Flame_—and _Blights ov the Eastern Forest_, a level 1 hex crawl. The book is 60 pages and half is dedicated to the funnel and half is dedicated to the hex crawl.
 
 **Warning**: If I'm your GM, stop reading now.
 
@@ -75,7 +75,7 @@ But then there are the other sites, what do they hold and how do they rank?
 
 ### Lair of the Yss’sak
 
-The Yss’sak feels like a fairy tale creature from Grimm’s Fairy Tales. It offers to leave the forest if you get it’s medallion back, but it turns out that the medallion will rejuvenate the beast and it’s going to mess you up.
+The Yss’sak feels like a fairy tale creature from Grimm’s Fairy Tales. It offers to leave the forest if you get its medallion back, but it turns out that the medallion will rejuvenate the beast and it’s going to mess you up.
 
 I like that this site is here because it’s a rare change to talk with an NPC in this book. I also like that the Yss’sak has a scar from the sword and wielder who laid entombed in the Ancient Keep from the funnel, nice continuity. On the other hand, this is a very short encounter.
 
@@ -113,9 +113,9 @@ This one has some great situations, fun traps, tough decisions, and it has loot!
 
 ### The Wrook’s Hut
 
-> From where the Wrook originally hailed or what exactly he is none with any certainty can say. Many surmise he is an exiled demon trapped within the forest’s perimeter. Others say he was once a hermit and turned vile by the sickness of the forest. In any case, this demonic creature with mid- night black skin and two golden orbs for eyes claims the entirety of Eastern Forest as his domain.
+> From where the Wrook originally hailed or what exactly he is none with any certainty can say. Many surmise he is an exiled demon trapped within the forests perimeter. Others say he was once a hermit and turned vile by the sickness of the forest. In any case, this demonic creature with mid- night black skin and two golden orbs for eyes claims the entirety of Eastern Forest as his domain.
 
-You may never run into the Wrook in The Eastern Forest, but if you did, there’s a chance one of your characters has lost it’s soul. You can get that soul back if you manage to get past the near infinite number of crows outside of his hut.
+You may never run into the Wrook in The Eastern Forest, but if you did, there’s a chance one of your characters has lost its soul. You can get that soul back if you manage to get past the near infinite number of crows outside of his hut.
 
 This is a small site, just the hut’s two rooms and the area surrounding it, but this place has some treasure, in fact it probably has some of the best treasure in the woods as the Wrook demands treasure from “trespassers” of his forest. And if they don’t pay up, he’ll take their soul and lay them as Soul Eggs—2 foot tall, 3 foot wide with a dark transparent shell, weighing up to 150 pounds. If one of your characters lost their soul earlier, you’ll find it here.
 

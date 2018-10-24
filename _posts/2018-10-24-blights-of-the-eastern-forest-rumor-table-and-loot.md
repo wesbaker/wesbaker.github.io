@@ -14,7 +14,7 @@ As part of [my review for _Sky ov Crimson Flame_]({% post_url 2018-10-24-sky-ov-
 | 1d20 | Rumor |
 | ---- | ----- |
 | 1 | Deep in the woods life a creature older than the forest itself, capable of bestowing great strength upon those that defeat it. |
-| 2 | A creature from times unknown guards a kings random of treasure, but beware it’s cunning, it’s been fooled before. |
+| 2 | A creature from times unknown guards a kings random of treasure, but beware its cunning, it’s been fooled before. |
 | 3 | Blood runs deep within the forest, spreading death and destruction by corrupting the flora into fauna. |
 | 4 | A Chaos Lord lives and breathes under wrathful trees, cleanse the forest to appease the gods. |
 | 5 | A corrupted sorceress commands her domain of the western part of the forest, any who enter are never seen from again. |
@@ -24,7 +24,7 @@ As part of [my review for _Sky ov Crimson Flame_]({% post_url 2018-10-24-sky-ov-
 | 9 | A king’s betrothed healed all of those who would lay down their arms and sacrifice that which enabled their crimes. |
 | 10 | Twelve spheres were set aside for the greater good. |
 | 11 | A knight and his squire live through eternal torment, chained to that which they protected to their death. |
-| 12 | Many shields were forsaken at this sacred site, but only one heals as if it were it’s former keepers. |
+| 12 | Many shields were forsaken at this sacred site, but only one heals as if it were its former keepers. |
 | 13 | The Wrook sees all that happens in the woods, beware of the creature with the golden orbs for eyes. |
 | 14 | Some say all treasure lost in the woods is taken by the Wrook, but beware his murder. |
 | 15 | Black birds beware, an uneasy alliance has been formed and the pact kept. |
