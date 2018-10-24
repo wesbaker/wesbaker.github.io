@@ -21,8 +21,11 @@ post_class: post-template
             <section class="post-meta">
                 <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                 {% if page.categories.size > 0 %}
-                    {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
+                    {{ page.categories | array_to_sentence_string | prepend: 'in ' }}
                 {% endif %}
+                <!-- {% if page.tags.size > 0 %}
+                    {{ page.tags | array_to_sentence_string | prepend: ' | tagged with '}}
+                {% endif %} -->
             </section>
         </header>
 
@@ -47,6 +50,11 @@ post_class: post-template
 
         <section class="post-content">
             {{content}}
+
+                    <!-- Disqus comments -->
+                    {% if page.disqus %}
+                    {% include disqus.html %}
+                    {% endif %}
         </section>
 
         {% if page.archive %}
@@ -77,12 +85,6 @@ post_class: post-template
 
             <!-- Share links section -->
             {% include share.html %}
-
-            <!-- Disqus comments -->
-            {% if page.disqus %}
-                {% include disqus.html %}
-            {% endif %}
-
         </footer>
 
     </article>

@@ -392,7 +392,10 @@ table td {
     border-top: #EFEFEF 1px solid;
 }
 
-table th { color: #000; }
+table th {
+  color: #000;
+  white-space: nowrap;
+}
 
 table caption + thead tr:first-child th,
 table caption + thead tr:first-child td,
