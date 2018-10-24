@@ -7,6 +7,8 @@ date:   2018-10-24 17:45:00 -0400
 
 As part of my review for _Sky ov Crimson Flame_, I mentioned that I wanted to make a rumor table and roll up some loot for the _Blights of the Eastern Forest_ hex crawl. Here's what I've come up with.
 
+**Warning**: If I'm your GM, stop reading now.
+
 ## Rumor Table
 
 | 1d20 | Rumor |

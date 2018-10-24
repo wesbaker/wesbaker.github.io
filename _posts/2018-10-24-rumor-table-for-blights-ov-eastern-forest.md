@@ -18,6 +18,8 @@ A while back, [Ray Otus] had a great series called RPG Tax where he reviewed ite
 
 With that out of the way, let’s talk about _Sky ov Crimson Flame_. The book itself contains two things: a level 0 funnel—the eponymous _Sky ov Crimson Flame_—and _Blights ov the Eastern Forest_, a level 1 hex crawl. The book is 60 pages and half is dedicated to the funnel and half is dedicated to the hex crawl.
 
+**Warning**: If I'm your GM, stop reading now.
+
 ## Sky ov Crimson Flame
 
 > It began with the disappearance of Belesa—the raven-haired beauty with jade colored eyes. Then others began to vanish! One by one, friends, loved ones and finally the children screamed out in the night and were lost... In vain you helped in the search, but no trace nor track could be found.
