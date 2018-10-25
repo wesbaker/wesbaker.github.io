@@ -36,7 +36,7 @@ I enjoyed reading through this one, but if you haven’t guessed by now, this ad
 - Cherub Head-Bats, which are severed baby heads with wings constructed from stretched skin stitched to the side of their heads
 - Adult Head-Bats which also have spinal cords attached that are used as weapons
 - A suit of flayed flesh that shambles about the castle’s dungeon who attempts to liquify a victim by encasing them in their acidic skin, and
-- Then there’s a creature that’s a fusion of children that’s “one ghastly ball of rolling eyes and mouths that each equal and cry and whine at once”
+- A creature that’s a fusion of children that’s “one ghastly ball of rolling eyes and mouths that each squeal and cry and whine at once”
 
 If you’re past that and still interested, you’ll find it hits a lot of what makes a great funnel:
 
@@ -47,7 +47,7 @@ If you’re past that and still interested, you’ll find it hits a lot of what 
 
 The various paths and choices you make work really well. You can either scale the walls of the Keep or find the lower entrance via a narrow ledge under the bridge to the Keep. Additionally, you can skip the fight with Belesa if you manage to find her flayed face in the dungeon. I love that kind of stuff.
 
-That race against time is pretty great. It’s near the end of the adventure, but Belesa is holding a ritual that will bring back Balrothhariid. Every round is details as the ritual gets further along and latter rounds make things more difficult with the oppressive winds whipping around the tower.
+That race against time is pretty great. It’s near the end of the adventure, but Belesa is holding a ritual that will bring back Balrothhariid. Every round is details as the ritual gets further along and latter rounds make things more difficult as oppressive winds start whipping around the tower.
 
 The monsters all felt unique. The Cherub Head-Bats want to chew you and will continue to do so until they’re dead or shaken off. The Adult Head-Bats want to impale you with their spinal cords. The Cherub Head-Bombs are suicide bomber versions of the Cherub Head-Bats. The Butcher Cultist will attempt to flay your skin, causing permanent Stamina damage, or break your bones, causing permanent Strength or Agility damage. There’s a Shambling Flesh Mass that feels like a land based kraken that has eight regenerating entrails that each attack. Even the monsters that don’t feel unique—Belesa and Balrothhariid—manage to ratchet up the tension in other ways (the race against time and a random table, respectively).
 
