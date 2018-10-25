@@ -54,6 +54,9 @@ about: 'about.html'
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
             </time>
+            {% if post.disqus %}
+                <a class="post-date" href="{{ post.url }}#disqus_thread">Comments</a>
+            {% endif %}
         </footer>
     </article>
 
@@ -62,3 +65,4 @@ about: 'about.html'
     {% include pagination.html %}
 
 </main>
+<script id="dsq-count-scr" src="//wess-life.disqus.com/count.js" async></script>

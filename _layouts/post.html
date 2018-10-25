@@ -19,7 +19,16 @@ post_class: post-template
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
+                {% if site.author %}
+                  <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                  {{ site.author }}
+                {% endif %}
+                <time
+                  class="post-date"
+                  datetime="{{ page.date | date:"%Y-%m-%d" }}"
+                >
+                  {{ page.date | date_to_string }}
+                </time>
                 {% if page.categories.size > 0 %}
                     {{ page.categories | array_to_sentence_string | prepend: 'in ' }}
                 {% endif %}
@@ -51,10 +60,10 @@ post_class: post-template
         <section class="post-content">
             {{content}}
 
-                    <!-- Disqus comments -->
-                    {% if page.disqus %}
-                    {% include disqus.html %}
-                    {% endif %}
+            <!-- Disqus comments -->
+            {% if page.disqus %}
+              {% include disqus.html url=page.url %}
+            {% endif %}
         </section>
 
         {% if page.archive %}
