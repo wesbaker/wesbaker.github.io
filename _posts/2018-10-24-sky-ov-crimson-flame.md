@@ -34,9 +34,9 @@ I enjoyed reading through this one, but if you haven’t guessed by now, this ad
 
 - Flayed bodies that are wracked by pain
 - Cherub Head-Bats, which are severed baby heads with wings constructed from stretched skin stitched to the side of their heads
-- Adult Head-Bats which also have spinal cords attached that are used as weapons, and
-- A suit of flayed flesh that shambles about the castle’s dungeon who attempts to liquify a victim by encasing them in their acidic skin
-- Then there’s a creature that’s a fusion of children that’s “one ghastly ball of rolling eyes and mouths that each equal and cry and whine at once”
+- Adult Head-Bats which also have spinal cords attached that are used as weapons
+- A suit of flayed flesh that shambles about the castle’s dungeon who attempts to liquify a victim by encasing them in their acidic skin, and
+- A creature that’s a fusion of children that’s “one ghastly ball of rolling eyes and mouths that each squeal and cry and whine at once”
 
 If you’re past that and still interested, you’ll find it hits a lot of what makes a great funnel:
 
@@ -45,17 +45,17 @@ If you’re past that and still interested, you’ll find it hits a lot of what 
 - a race against time, and
 - interesting monsters to fight.
 
-The various paths and choices you make work really well. You can either scale the walls of the Keep or find the lower entrance via a narrow ledge under the bridge to the Keep. Additionally, you can potentially skip the fight entirely with Belesa if you manage to find her face in the dungeon. I love that kind of stuff.
+The various paths and choices you make work really well. You can either scale the walls of the Keep or find the lower entrance via a narrow ledge under the bridge to the Keep. Additionally, you can skip the fight with Belesa if you manage to find her flayed face in the dungeon. I love that kind of stuff.
 
-That race against time is pretty great. It’s near the end of the adventure, but Belesa is holding a ritual that will bring back Balrothhariid. Every round is details as the ritual gets further along and latter rounds make things more difficult with the oppressive winds whipping around the tower.
+That race against time is pretty great. It’s near the end of the adventure, but Belesa is holding a ritual that will bring back Balrothhariid. Every round is details as the ritual gets further along and latter rounds make things more difficult as oppressive winds start whipping around the tower.
 
 The monsters all felt unique. The Cherub Head-Bats want to chew you and will continue to do so until they’re dead or shaken off. The Adult Head-Bats want to impale you with their spinal cords. The Cherub Head-Bombs are suicide bomber versions of the Cherub Head-Bats. The Butcher Cultist will attempt to flay your skin, causing permanent Stamina damage, or break your bones, causing permanent Strength or Agility damage. There’s a Shambling Flesh Mass that feels like a land based kraken that has eight regenerating entrails that each attack. Even the monsters that don’t feel unique—Belesa and Balrothhariid—manage to ratchet up the tension in other ways (the race against time and a random table, respectively).
 
-The handouts are great and the maps are generally good. My players love handouts, especially when it gives a visual to a hard to describe scene like the Soul Chamber. I felt like the interior isometric map could have done a better job indicating where various stairs lead to instead of just mentioning the level and room it leads to (e.g. “to 3-1”).
+The handouts are great and the maps are generally good. My players love handouts, especially when it gives a visual to a hard to describe scene. I felt like the interior isometric map could have done a better job indicating where various stairs lead to instead of just mentioning the level and room it leads to (e.g. “to 3-1”).
 
 There’s some additional variety with the random tables. When your players get to the library within the keep, the shelves of ancient tomes and shiny baubles will likely catch their eye, but what’s on there? Roll a d6 to find out. Later, during what’s likely to be the final encounter of the module, what happens when they’re transported to the Nexus between their Realm and the Other Worlds? Roll a d20 _each round_ to find out. I like that. In addition, there are other times when as a GM you’ll be rolling dice to see how a sentient weapon affects a player or where that suit of flayed flesh happens to be. Maybe the players will run into it as it changes rooms?
 
-The other weaknesses worth mentioning are pretty minor. I think the biggest weakness is there’s little change for actual roleplaying, instead most of the time the monsters are going to attack you. This feels in line with other DCC adventures, but it’s always a nice change of pace to talk it out, even if the monster is just trying to manipulate or stall you.
+The other weaknesses worth mentioning are pretty minor. I think the biggest weakness is there’s little chance for actual roleplaying, instead most of the time the monsters are going to attack you. This feels in line with other DCC adventures, but it’s always a nice change of pace to talk it out, even if the monster is just trying to manipulate or stall you.
 
 While the cover is a fantastic piece by Stefan Poag and he has some contributions to the interior art as well, there are some pieces that feel out of place and not up to the quality elsewhere.
 
@@ -77,7 +77,7 @@ But then there are the other sites, what do they hold and how do they rank?
 
 The Yss’sak feels like a fairy tale creature from Grimm’s Fairy Tales. It offers to leave the forest if you get its medallion back, but it turns out that the medallion will rejuvenate the beast and it’s going to mess you up.
 
-I like that this site is here because it’s a rare change to talk with an NPC in this book. I also like that the Yss’sak has a scar from the sword and wielder who laid entombed in the Ancient Keep from the funnel, nice continuity. On the other hand, this is a very short encounter.
+I like that this site is here because it’s a rare chance to talk with an NPC in this book. I also like that the Yss’sak has a scar from the sword and wielder who laid entombed in the Ancient Keep from the funnel, nice continuity. On the other hand, this is a very short encounter.
 
 ### Hellspring Hollow
 

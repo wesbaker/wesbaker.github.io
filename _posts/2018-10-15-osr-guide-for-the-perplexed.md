@@ -1,5 +1,6 @@
 ---
 layout: post
+disqus: true
 title:  "OSR Guide for the Perplexed"
 date:   2018-10-15 21:00:00 -0400
 ---
