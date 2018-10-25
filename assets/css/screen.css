@@ -755,6 +755,10 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
+.post-excerpt img {
+    max-width: 100%;
+}
+
 .post-excerpt p {
     margin: 0;
     font-size: 0.9em;
@@ -1574,6 +1578,10 @@ body:not(.post-template) .post-title {
     .page-title {
         font-size: 3rem;
     }
+
+.post-excerpt img {
+    max-width: 100%;
+}
 
     .post-excerpt p {
         font-size: 0.85em;
