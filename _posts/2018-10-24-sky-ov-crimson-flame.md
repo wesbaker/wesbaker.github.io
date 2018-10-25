@@ -125,6 +125,6 @@ I like this one because it ties into the encounters, but it’s pretty small.
 
 I generally like this hex crawl and will almost certainly run it for my players, but I feel like my standards are pretty low as I haven’t read other crawls and I haven’t run a single one. Still, the adventure sites are generally interesting and having your players chase down rumors in the forest should be a fun enterprise.
 
-I felt like this hex this hex crawl would be better if it had more loot and a good rumor table to get the party interested in the various sites. I’ve created a rumor table and rolled up some fun magic loot for two of sites and I’ll be posting that later.
+I felt like this hex crawl would be better if it had more loot and a good rumor table to get the party interested in the various sites. I’ve created a rumor table and rolled up some fun magic loot for two of sites and I’ll be posting that later.
 
 Once my party has going through the woods, I’ll report back and see if my expectations were in line with reality, but I think this looks like a good introduction to a hex crawl for a group of new players.
