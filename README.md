@@ -1,5 +1,3 @@
-# wesbaker.dev
-
-## Projects
+# Projects
 
 * [Subscriber](https://www.wesbaker.dev/subscriber/)
