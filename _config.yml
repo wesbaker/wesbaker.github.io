@@ -1,21 +1,4 @@
-name: Wes Baker
-description: RPGs, Board Games, Miniatures, Software Engineering, and Disney
-meta_description: "Wes Baker: RPGs, Board Games, Miniatures, Software Engineering, and Disney"
-
-markdown: kramdown
-highlighter: rouge
-logo: true
-pagination:
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-baseurl: /
-domain_name: 'http://wesbaker.com'
-google_analytics: 'UA-89594185-1'
-plugins: [jekyll-paginate-v2]
-
-# Details for the RSS feed generator
-url:            'http://wesbaker.com'
-author:         'Wes Baker'
+google_analytics: UA-89594185-2
+show_downloads: false
+theme: jekyll-theme-cayman
+title: wesbaker.dev
