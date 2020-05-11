@@ -1,4 +1,6 @@
-google_analytics: UA-89594185-2
-show_downloads: false
-theme: jekyll-theme-cayman
-title: wesbaker.dev
+remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+exclude:
+  - subscriber
+footer_content: "Copyright &copy; Wesley Baker"
+ga_tracking: UA-89594185-2
