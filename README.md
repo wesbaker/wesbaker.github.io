@@ -1,3 +1,3 @@
 # Projects
 
-* [Subscriber](https://www.wesbaker.dev/subscriber/)
+- [Subscriber](https://wesbaker.dev/subscriber/)
